@@ -5,9 +5,9 @@
 
 <!-- socials -->
 <p align="center">
-  <a href="mailto:joebyjo@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>
-  <a href="https://linkedin.com/in/joe-byjo"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
-  <a href="https://github.com/joebyjo"><img src="https://skillicons.dev/icons?i=github"/></a>
+  <a href="mailto:joebyjo@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail"/></a>
+  <a href="https://linkedin.com/in/joe-byjo" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
+  <a href="https://github.com/joebyjo" target="_blank"><img src="https://skillicons.dev/icons?i=github"/></a>
 </p>
 
 ---
