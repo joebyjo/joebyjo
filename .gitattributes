@@ -1,0 +1,8 @@
+# treat jupyter notebook as python files
+*.ipynb linguist-language=Python
+
+# treat .h as c++ files
+*.h linguist-language=C++
+
+# treat docs as markdown
+docs/* linguist-language=Markdown
