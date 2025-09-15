@@ -39,7 +39,8 @@
   <h1></h1>
 
   <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=joebyjo&theme=react-dark&hide_border=true"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=joebyjo&theme=react-dark&hide_border=true" height="300"/>
+    <img height="500" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/joebyjo/joebyjo/output/github-contribution-grid-snake-dark.svg">
   </div>
     
   <br><br>
