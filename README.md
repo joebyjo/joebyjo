@@ -26,12 +26,18 @@
     <h4>
       Technologies I'm familiar with:
     </h4>
-    <img align="left" style="" src="https://skillicons.dev/icons?i=bash,git,linux,c,cpp,py,js,css,html,express,nodejs,vue,mysql,matlab,r,bots,docker,ubuntu,figma,md,obsidian,ps,&perline=4&theme=light" width="300">
+    <!-- <img align="left" style="" src="https://skillicons.dev/icons?i=bash,git,linux,c,cpp,py,js,css,html,express,nodejs,vue,mysql,matlab,r,bots,docker,ubuntu,figma,md,obsidian,ps,&perline=4&theme=light" width="300"> -->
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=bash,git,linux,c,cpp,py,js,css,html,express,nodejs,vue,mysql,matlab,r,bots,docker,ubuntu,figma,md,obsidian,ps,&perline=4&theme=dark">
+        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=bash,git,linux,c,cpp,py,js,css,html,express,nodejs,vue,mysql,matlab,r,bots,docker,ubuntu,figma,md,obsidian,ps,&perline=4&theme=light">
+        <img align="left" style="" width="100" alt="Skill icons" src="https://skillicons.dev/icons?i=bash,git,linux,c,cpp,py,js,css,html,express,nodejs,vue,mysql,matlab,r,bots,docker,ubuntu,figma,md,obsidian,ps,&perline=4&theme=light">
+    </picture>
   </div>
   
   <br><br>
   
   <div align="right" style="">
+    <!-- stats -->
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=joebyjo&theme=tokyonight&card_width=500"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joebyjo&layout=compact&theme=tokyonight&size_weight=0.5&count_weight=0.5&hide_title=true&langs_count=10&card_width=500"/>
   <div>
@@ -39,15 +45,17 @@
   <h1></h1>
 
   <div align="center">
+    <!-- activity graph -->
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=joebyjo&hide_border=true&bg_color=0f172a&color=94a3b8&title_color=38bdf8&line=38bdf8&point=a78bfa&area_color=1e293b&border_color=0f172a">
         <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=joebyjo&hide_border=true&bg_color=f9fafb&color=374151&title_color=2563eb&line=2563eb&point=7c3aed&area_color=bfdbfe&border_color=e5e7eb">
-        <img alt="GitHub Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=joebyjo&hide_border=true" height="300">
+        <img height="300" alt="GitHub Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=joebyjo&hide_border=true">
     </picture>
+    <!-- contribution snake -->
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/joebyjo/joebyjo/output/tokyonight-dark.svg">
         <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/joebyjo/joebyjo/output/tokyonight-light.svg">
-        <img height="500" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/joebyjo/joebyjo/output/tokyonight-dark.svg">
+        <img height="200" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/joebyjo/joebyjo/output/tokyonight-dark.svg">
     </picture>
   </div>
     
