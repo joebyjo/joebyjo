@@ -39,8 +39,16 @@
   <h1></h1>
 
   <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=joebyjo&theme=react-dark&hide_border=true" height="300"/>
-    <img height="500" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/joebyjo/joebyjo/output/blackandwhite.svg">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=joebyjo&hide_border=true&bg_color=0f172a&color=94a3b8&title_color=38bdf8&line=38bdf8&point=a78bfa&area_color=1e293b&border_color=0f172a">
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=joebyjo&hide_border=true&bg_color=f9fafb&color=374151&title_color=2563eb&line=2563eb&point=7c3aed&area_color=bfdbfe&border_color=e5e7eb">
+        <img alt="GitHub Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=joebyjo&hide_border=true" height="300">
+    </picture>
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/joebyjo/joebyjo/output/tokyonight-dark.svg">
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/joebyjo/joebyjo/output/tokyonight-light.svg">
+        <img height="500" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/joebyjo/joebyjo/output/tokyonight-dark.svg">
+    </picture>
   </div>
     
   <br><br>
