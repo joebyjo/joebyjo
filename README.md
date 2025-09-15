@@ -10,7 +10,7 @@
   <a href="https://github.com/joebyjo" target="_blank"><img src="https://skillicons.dev/icons?i=github"/></a>
 </p>
 
----
+<h1></h1>
 
 ### 👨‍💻 About Me
 - 🎓 2nd Year **Computer Science @ University of Adelaide** (Graduating 2026)  
@@ -20,9 +20,7 @@
 
 ---
 
-
 <!-- badges -->
-<h1></h1>
 <div>
   <div>
     <h4>
@@ -34,9 +32,13 @@
   <br><br>
   
   <div align="right" style="">
-    <img src="https://github-readme-stats.vercel.app/api?username=joebyjo&show_icons=true&theme=tokyonight" height="320"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joebyjo&layout=compact&theme=tokyonight" height="320"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=joebyjo&theme=tokyonight&card_width=500"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joebyjo&layout=compact&theme=tokyonight&size_weight=0.5&count_weight=1&hide_title=true&langs_count=10&card_width=500"/>
   <div>
+
+  <div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=joebyjo&theme=react-dark&hide_border=true"/>
+  </div>
     
   <br><br>
   <h1></h1>
