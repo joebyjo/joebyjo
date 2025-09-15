@@ -26,11 +26,10 @@
     <h4>
       Technologies I'm familiar with:
     </h4>
-    <!-- <img align="left" style="" src="https://skillicons.dev/icons?i=bash,git,linux,c,cpp,py,js,css,html,express,nodejs,vue,mysql,matlab,r,bots,docker,ubuntu,figma,md,obsidian,ps,&perline=4&theme=light" width="300"> -->
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=bash,git,linux,c,cpp,py,js,css,html,express,nodejs,vue,mysql,matlab,r,bots,docker,ubuntu,figma,md,obsidian,ps,&perline=4&theme=dark">
-        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=bash,git,linux,c,cpp,py,js,css,html,express,nodejs,vue,mysql,matlab,r,bots,docker,ubuntu,figma,md,obsidian,ps,&perline=4&theme=light">
-        <img align="left" style="" width="100" alt="Skill icons" src="https://skillicons.dev/icons?i=bash,git,linux,c,cpp,py,js,css,html,express,nodejs,vue,mysql,matlab,r,bots,docker,ubuntu,figma,md,obsidian,ps,&perline=4&theme=light">
+        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=bash%2Cgit%2Clinux%2Cc%2Ccpp%2Cpy%2Cjs%2Ccss%2Chtml%2Cexpress%2Cnodejs%2Cvue%2Cmysql%2Cmatlab%2Cr%2Cbots%2Cdocker%2Cubuntu%2Cfigma%2Cmd%2Cobsidian%2Cps&perline=4&theme=dark">
+        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=bash%2Cgit%2Clinux%2Cc%2Ccpp%2Cpy%2Cjs%2Ccss%2Chtml%2Cexpress%2Cnodejs%2Cvue%2Cmysql%2Cmatlab%2Cr%2Cbots%2Cdocker%2Cubuntu%2Cfigma%2Cmd%2Cobsidian%2Cps&perline=4&theme=light">
+        <img align="left" style="" width="300" alt="Skill icons" src="https://skillicons.dev/icons?i=bash%2Cgit%2Clinux%2Cc%2Ccpp%2Cpy%2Cjs%2Ccss%2Chtml%2Cexpress%2Cnodejs%2Cvue%2Cmysql%2Cmatlab%2Cr%2Cbots%2Cdocker%2Cubuntu%2Cfigma%2Cmd%2Cobsidian%2Cps&perline=4&theme=light">
     </picture>
   </div>
   
