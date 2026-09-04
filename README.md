@@ -38,7 +38,7 @@
           />
           <img
               alt="Technologies"
-              src="https://skillicons.dev/icons?i=py,dotnet,cpp,c,nodejs,r,java,matlab,express,mysql,react,vuejs,bash,git,github,githubactions,flask,fastapi,docker,ubuntu,gcp,electron,obsidian&perline=8&theme=light"
+              src="https://skillicons.dev/icons?i=py,dotnet,cpp,c,nodejs,r,java,matlab,express,mysql,react,vuejs,bash,git,github,githubactions,flask,fastapi,docker,ubuntu,gcp,electron,obsidian&perline=8&theme=dark"
           />
       </picture>
   </div>
