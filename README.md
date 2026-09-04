@@ -13,7 +13,7 @@
 <h1></h1>
 
 ### 👨‍💻 About Me
-- 🎓 2nd Year **Computer Science @ University of Adelaide** (Graduating 2026)  
+- 🎓 Final Year **Computer Science @ University of Adelaide** (Graduating 2026)  
 - 🛠️ Exploring **Full-Stack Development**, **Linux/DevOps Automation**, and **Backend Systems**  
 - 🚀 Aiming for roles in **Software Engineering**, **DevOps**, and **Automation Workflows**  
 - ⚡ Currently tinkering with **homelabs, penetration testing, and workflow automations**  
@@ -27,10 +27,21 @@
       Technologies I'm familiar with:
     </h4>
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=bash%2Cgit%2Clinux%2Cc%2Ccpp%2Cpy%2Cjs%2Ccss%2Chtml%2Cexpress%2Cnodejs%2Cvue%2Cmysql%2Cmatlab%2Cr%2Cbots%2Cdocker%2Cubuntu%2Cfigma%2Cmd%2Cobsidian%2Cps&perline=4&theme=dark">
-        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=bash%2Cgit%2Clinux%2Cc%2Ccpp%2Cpy%2Cjs%2Ccss%2Chtml%2Cexpress%2Cnodejs%2Cvue%2Cmysql%2Cmatlab%2Cr%2Cbots%2Cdocker%2Cubuntu%2Cfigma%2Cmd%2Cobsidian%2Cps&perline=4&theme=light">
-        <img align="left" style="" width="300" alt="Skill icons" src="https://skillicons.dev/icons?i=bash%2Cgit%2Clinux%2Cc%2Ccpp%2Cpy%2Cjs%2Ccss%2Chtml%2Cexpress%2Cnodejs%2Cvue%2Cmysql%2Cmatlab%2Cr%2Cbots%2Cdocker%2Cubuntu%2Cfigma%2Cmd%2Cobsidian%2Cps&perline=4&theme=light">
-    </picture>
+      <source
+          media="(prefers-color-scheme: dark)"
+          srcset="https://skillicons.dev/icons?i=py,dotnet,cpp,c,r,mysql,redhat,bash,git,github,githubactions,flask,fastapi,express,react,nodejs,docker,java,ubuntu,gcp,electron&perline=4&theme=dark"
+      >
+      <source
+          media="(prefers-color-scheme: light)"
+          srcset="https://skillicons.dev/icons?i=py,dotnet,cpp,c,r,mysql,redhat,bash,git,github,githubactions,flask,fastapi,express,react,nodejs,docker,java,ubuntu,gcp,electron&perline=4&theme=light"
+      >
+      <img
+          align="left"
+          width="300"
+          alt="Skill icons"
+          src="https://skillicons.dev/icons?i=py,dotnet,cpp,c,r,mysql,redhat,bash,git,github,githubactions,flask,fastapi,express,react,nodejs,docker,java,ubuntu,gcp,electron&perline=4&theme=light"
+      >
+  </picture>
   </div>
   
   <br><br>
