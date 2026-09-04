@@ -22,27 +22,26 @@
 
 <!-- badges -->
 <div>
-  <div>
-    <h4>
-      Technologies I'm familiar with:
-    </h4>
-    <picture>
-      <source
-          media="(prefers-color-scheme: dark)"
-          srcset="https://skillicons.dev/icons?i=py,dotnet,cpp,c,nodejs,r,java,matlab,express,mysql,react,vuejs,redhat,bash,git,github,githubactions,flask,fastapi,docker,ubuntu,gcp,electron,obsidian&perline=4&theme=dark"
-      >
-      <source
-          media="(prefers-color-scheme: light)"
-          srcset="https://skillicons.dev/icons?i=py,dotnet,cpp,c,nodejs,r,java,matlab,express,mysql,react,vuejs,redhat,bash,git,github,githubactions,flask,fastapi,docker,ubuntu,gcp,electron,obsidian&perline=4&theme=light"
-      >
-      <img
-          align="left"
-          width="300"
-          alt="Skill icons"
-          src="https://skillicons.dev/icons?i=py,dotnet,cpp,c,nodejs,r,java,matlab,express,mysql,react,vuejs,redhat,bash,git,github,githubactions,flask,fastapi,docker,ubuntu,gcp,electron,obsidian&perline=4&theme=light"
-      >
-  </picture>
-  </div>
+  <p align="center">
+      <picture>
+          <source
+              media="(prefers-color-scheme: dark)"
+              srcset="
+                  https://skillicons.dev/icons?i=py,dotnet,cpp,c,nodejs,r,java,matlab,express,mysql,react,vuejs,bash,git,github,githubactions,flask,fastapi,docker,ubuntu,gcp,electron,obsidian&perline=8&theme=dark
+              "
+          />
+          <source
+              media="(prefers-color-scheme: light)"
+              srcset="
+                  https://skillicons.dev/icons?i=py,dotnet,cpp,c,nodejs,r,java,matlab,express,mysql,react,vuejs,bash,git,github,githubactions,flask,fastapi,docker,ubuntu,gcp,electron,obsidian&perline=8&theme=light
+              "
+          />
+          <img
+              alt="Technologies"
+              src="https://skillicons.dev/icons?i=py,dotnet,cpp,c,nodejs,r,java,matlab,express,mysql,react,vuejs,bash,git,github,githubactions,flask,fastapi,docker,ubuntu,gcp,electron,obsidian&perline=8&theme=light"
+          />
+      </picture>
+  </p>
   
   <br><br>
   
@@ -50,7 +49,7 @@
     <!-- stats -->
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=joebyjo&theme=tokyonight&card_width=500"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joebyjo&layout=compact&theme=tokyonight&size_weight=0.5&count_weight=0.5&hide_title=true&langs_count=10&card_width=500"/>
-  <div>
+  </div>
 
   <h1></h1>
 
