@@ -29,17 +29,17 @@
     <picture>
       <source
           media="(prefers-color-scheme: dark)"
-          srcset="https://skillicons.dev/icons?i=py,dotnet,cpp,c,r,mysql,redhat,bash,git,github,githubactions,flask,fastapi,express,react,nodejs,docker,java,ubuntu,gcp,electron&perline=4&theme=dark"
+          srcset="https://skillicons.dev/icons?i=py,dotnet,cpp,c,nodejs,r,java,matlab,express,mysql,react,vuejs,redhat,bash,git,github,githubactions,flask,fastapi,docker,ubuntu,gcp,electron,obsidian&perline=4&theme=dark"
       >
       <source
           media="(prefers-color-scheme: light)"
-          srcset="https://skillicons.dev/icons?i=py,dotnet,cpp,c,r,mysql,redhat,bash,git,github,githubactions,flask,fastapi,express,react,nodejs,docker,java,ubuntu,gcp,electron&perline=4&theme=light"
+          srcset="https://skillicons.dev/icons?i=py,dotnet,cpp,c,nodejs,r,java,matlab,express,mysql,react,vuejs,redhat,bash,git,github,githubactions,flask,fastapi,docker,ubuntu,gcp,electron,obsidian&perline=4&theme=light"
       >
       <img
           align="left"
           width="300"
           alt="Skill icons"
-          src="https://skillicons.dev/icons?i=py,dotnet,cpp,c,r,mysql,redhat,bash,git,github,githubactions,flask,fastapi,express,react,nodejs,docker,java,ubuntu,gcp,electron&perline=4&theme=light"
+          src="https://skillicons.dev/icons?i=py,dotnet,cpp,c,nodejs,r,java,matlab,express,mysql,react,vuejs,redhat,bash,git,github,githubactions,flask,fastapi,docker,ubuntu,gcp,electron,obsidian&perline=4&theme=light"
       >
   </picture>
   </div>
